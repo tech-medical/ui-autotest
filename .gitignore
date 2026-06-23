@@ -1,0 +1,18 @@
+# Git 忽略规则
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+logs/
+reports/
+screenshots/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+allure-results/
+allure-report/
+.idea/
