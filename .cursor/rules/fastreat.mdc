@@ -1,0 +1,10 @@
+---
+description: ui-autotest agent baseline — follow AGENTS.md
+alwaysApply: true
+---
+
+# ui-autotest
+
+- Follow root `AGENTS.md`.
+- Default git baseline / PR target: see `docs/BRANCHING.md`.
+- Never copy secrets into chat, docs, tests, or commits.

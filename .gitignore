@@ -1,5 +1,12 @@
 # Git 忽略规则
 .env
+.env.*
+!.env.example
+
+# Agent docs under docs/ stay tracked
+!docs/
+!docs/**
+
 __pycache__/
 *.pyc
 *.pyo
